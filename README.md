@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **abdullah-nadim/abdullah-nadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **a C# project**
 
-- 🌱 I’m currently learning **C#, Python, Linux**
+- 🌱 I’m currently learning **C#, C++, Python, Linux**
 
 - 👯 I’m looking to collaborate on **projects developed by .Net, C#**
 
