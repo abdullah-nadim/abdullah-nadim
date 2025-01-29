@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-nadim" /> </p>
 
-- 🔭 I’m currently working on **a C# project**
+- 🔭 I’m currently working on **ASP .NET CORE**
 
-- 🌱 I’m currently learning **C#, C++, Python, Linux**
+- 🌱 I’m currently learning **ASP .NET CORE, Linux**
 
 - 👯 I’m looking to collaborate on **projects developed by .Net, C#**
 
-- 📫 How to reach me **nadim.soft.111@gmail.com**
+- 📫 How to reach me **nurealamnadim8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-nadim&show_icons=true&locale=en" alt="abdullah-nadim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-nadim&" alt="abdullah-nadim" /></p>
+
 
