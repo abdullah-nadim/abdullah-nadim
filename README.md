@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-nadim" /> </p>
 
-- 🔭 I’m currently working on **ASP .NET CORE**
+- 🔭 I’m currently working on **ASP .NET CORE, Angular, Bootstrap**
 
-- 🌱 I’m currently learning **ASP .NET CORE, Linux**
+- 🌱 I’m currently learning **ASP .NET CORE, Linux, Angular, Azure**  & Practicing **DSA**
 
-- 👯 I’m looking to collaborate on **projects developed by .Net, C#**
+- 👯 I’m looking to collaborate on **projects developed by .Net, C#, Angular**
 
 - 📫 How to reach me **nurealamnadim8@gmail.com**
 
