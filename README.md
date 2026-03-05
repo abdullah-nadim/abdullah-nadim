@@ -1,39 +1,125 @@
-
-<!--
-**abdullah-nadim/abdullah-nadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Abdullah MD Nure Alam Nadim</h1>
-<h3 align="center">A passionate learner exploring the world of programming</h3>
+<h3 align="center">Backend Heavy Full-Stack Engineer | .NET Architect in Progress</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-nadim" /> </p>
-
-- 🔭 I’m currently working on **ASP .NET CORE, Angular, Bootstrap**
-
-- 🌱 I’m currently learning **ASP .NET CORE, Linux, Angular, Azure**  & Practicing **DSA**
-
-- 👯 I’m looking to collaborate on **projects developed by .Net, C#, Angular**
-
-- 📫 How to reach me **nurealamnadim8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/n-a-nadim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n-a-nadim" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abdullah_nadim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abdullah_nadim" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sleepyhead10e8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sleepyhead10e8" height="30" width="40" /></a>
+<p align="center">
+I design and build scalable backend systems, microservices architectures, and production-grade applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=abdullah-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-nadim" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-nadim&show_icons=true&locale=en&layout=compact" alt="abdullah-nadim" /></p>
+---
+
+## 🚀 About Me
+
+* 💻 Backend-focused **Full-Stack Developer**
+* 🧠 Specialized in **.NET ecosystem and scalable backend systems**
+* ⚙️ Experienced in **Microservices Architecture**
+* 🤖 Built **AI-integrated production systems**
+* 🔗 Integrated multiple **third-party APIs and services**
+* 🏗️ Designed systems **from architecture → development → deployment**
+* 🗄️ Experienced in **database design & performance optimization**
+* ☁️ Interested in **distributed systems and cloud architecture**
+
+My goal is to grow into a **Software / System Architect**, designing large-scale, high-performance platforms.
+
+---
+
+## 🏗️ What I Build
+
+* Scalable **.NET backend services**
+* **Microservice architectures**
+* **AI-integrated applications**
+* **High-volume event/ticket processing systems**
+* **Full-stack enterprise applications**
+* **API platforms and integrations**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+* ASP.NET Core
+* C#
+* REST API Design
+* Microservices Architecture
+* Distributed Systems
+
+### Frontend
+
+* Angular
+* TypeScript
+* JavaScript
+* HTML5 / CSS3
+* Bootstrap
+
+### AI / Data
+
+* Python
+* AI API Integrations
+* Data Processing Pipelines
+
+### Databases
+
+* PostgreSQL
+* Microsoft SQL Server
+* MySQL
+* Database Design & Query Optimization
+
+### DevOps & Infrastructure
+
+* Docker
+* Linux
+* Git
+* CI/CD Pipelines (Learning & Exploring)
+* Cloud Platforms (Learning & Exploring)
+
+---
+
+## 📈 Engineering Interests
+
+* Software Architecture
+* High-throughput backend systems
+* Microservices patterns
+* Distributed system design
+* Performance optimization
+* AI-integrated platforms
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborating on:
+
+* Backend architecture projects
+* Microservice platforms
+* AI-powered backend systems
+* Large-scale distributed applications
+
+---
+
+## 📫 Contact
+
+* 📧 Email: **[nurealamnadim8@gmail.com](mailto:nurealamnadim8@gmail.com)**
+* 💼 LinkedIn: https://linkedin.com/in/n-a-nadim
+
+---
+
+## 🌐 Competitive Programming
+
+* CodeChef: https://www.codechef.com/users/abdullah_nadim
+* Codeforces: https://codeforces.com/profile/sleepyhead10e8
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abdullah-nadim&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-nadim&layout=compact&theme=tokyonight"/>
+</p>
