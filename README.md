@@ -1,45 +1,60 @@
-<h1 align="center">Hi 👋, I'm Abdullah MD Nure Alam Nadim</h1>
-<h3 align="center">Backend Heavy Full-Stack Engineer | .NET Architect in Progress</h3>
+<h1 align="center">Abdullah MD Nure Alam Nadim</h1>
 
 <p align="center">
-I design and build scalable backend systems, microservices architectures, and production-grade applications.
+Backend Heavy Full-Stack Engineer • .NET Specialist • Microservices Architect
 </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=abdullah-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-nadim" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=.NET+Backend+Engineer;Microservices+System+Designer;AI+Integrated+Platform+Developer;Distributed+Systems+Enthusiast;Future+Software+Architect">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abdullah-nadim&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 💻 Backend-focused **Full-Stack Developer**
-* 🧠 Specialized in **.NET ecosystem and scalable backend systems**
-* ⚙️ Experienced in **Microservices Architecture**
-* 🤖 Built **AI-integrated production systems**
-* 🔗 Integrated multiple **third-party APIs and services**
-* 🏗️ Designed systems **from architecture → development → deployment**
-* 🗄️ Experienced in **database design & performance optimization**
-* ☁️ Interested in **distributed systems and cloud architecture**
+I am a **backend-focused full-stack engineer** specializing in building **scalable production systems using the .NET ecosystem**.
 
-My goal is to grow into a **Software / System Architect**, designing large-scale, high-performance platforms.
+I design and implement **microservice architectures**, build **AI-integrated backend platforms**, and take ownership of systems **from architecture to production deployment**.
 
----
+My experience covers the full lifecycle:
 
-## 🏗️ What I Build
+Architecture → Backend Development → Database Design → Third-Party Integration → Deployment → Production Optimization
 
-* Scalable **.NET backend services**
-* **Microservice architectures**
-* **AI-integrated applications**
-* **High-volume event/ticket processing systems**
-* **Full-stack enterprise applications**
-* **API platforms and integrations**
+My long-term goal is to become a **Software / System Architect designing large-scale distributed platforms.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🏗 Engineering Experience
 
-### Backend
+✔ Designed **microservice architecture platforms from scratch**
+✔ Built **AI-integrated backend solutions**
+✔ Implemented **third-party API integrations**
+✔ Developed **high-volume ticket/event processing services**
+✔ Performed **database schema design and performance optimization**
+✔ Delivered **production systems end-to-end**
+
+---
+
+# 🧠 Architecture Focus
+
+Areas I actively explore:
+
+• Microservices Architecture
+• Distributed Systems
+• Backend Performance Optimization
+• Scalable API Platforms
+• Event Driven Systems
+• AI-Integrated Backend Services
+
+---
+
+# ⚙️ Technology Stack
+
+## Backend
 
 * ASP.NET Core
 * C#
@@ -47,79 +62,90 @@ My goal is to grow into a **Software / System Architect**, designing large-scale
 * Microservices Architecture
 * Distributed Systems
 
-### Frontend
+## Frontend
 
 * Angular
 * TypeScript
 * JavaScript
-* HTML5 / CSS3
+* HTML5
+* CSS3
 * Bootstrap
 
-### AI / Data
+## AI & Data
 
 * Python
 * AI API Integrations
 * Data Processing Pipelines
 
-### Databases
+## Databases
 
 * PostgreSQL
 * Microsoft SQL Server
 * MySQL
-* Database Design & Query Optimization
+* Query Optimization
+* Database Architecture
 
-### DevOps & Infrastructure
+## DevOps & Infrastructure
 
 * Docker
 * Linux
 * Git
-* CI/CD Pipelines (Learning & Exploring)
-* Cloud Platforms (Learning & Exploring)
+* CI/CD Pipelines
+* Cloud Platforms (learning)
 
 ---
 
-## 📈 Engineering Interests
+# 🌐 Competitive Programming
 
-* Software Architecture
-* High-throughput backend systems
-* Microservices patterns
-* Distributed system design
-* Performance optimization
-* AI-integrated platforms
+CodeChef
+https://www.codechef.com/users/abdullah_nadim
 
----
-
-## 🤝 Collaboration
-
-I’m open to collaborating on:
-
-* Backend architecture projects
-* Microservice platforms
-* AI-powered backend systems
-* Large-scale distributed applications
+Codeforces
+https://codeforces.com/profile/sleepyhead10e8
 
 ---
 
-## 📫 Contact
+# 📫 Connect With Me
 
-* 📧 Email: **[nurealamnadim8@gmail.com](mailto:nurealamnadim8@gmail.com)**
-* 💼 LinkedIn: https://linkedin.com/in/n-a-nadim
+Email
+**[nurealamnadim8@gmail.com](mailto:nurealamnadim8@gmail.com)**
 
----
-
-## 🌐 Competitive Programming
-
-* CodeChef: https://www.codechef.com/users/abdullah_nadim
-* Codeforces: https://codeforces.com/profile/sleepyhead10e8
+LinkedIn
+**linkedin.com/in/n-a-nadim**
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abdullah-nadim&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-nadim&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-nadim&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-nadim&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/abdullah-nadim/abdullah-nadim/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# ⚡ Engineering Philosophy
+
+> Build systems that scale.
+> Design architectures that survive.
+> Optimize performance where it matters.
+> Simplicity beats complexity in production systems.
