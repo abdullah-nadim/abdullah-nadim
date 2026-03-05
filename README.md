@@ -109,14 +109,8 @@ https://linkedin.com/in/n-a-nadim
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abdullah-nadim&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=abdullah-nadim&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-nadim&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## ⚡ Engineering Philosophy
 
